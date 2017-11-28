@@ -1,1 +1,1 @@
-export default './lib/Test';
+module.exports = require('./lib/Test');

@@ -1,0 +1,19 @@
+{
+  "name": "sandbox-npm-repository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szk213/sandbox-npm-repository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szk213/sandbox-npm-repository/issues"
+  },
+  "homepage": "https://github.com/szk213/sandbox-npm-repository#readme"
+}
